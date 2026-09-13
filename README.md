@@ -1,4 +1,4 @@
-# DRISHTI: Multi-Temporal Satellite Change Intelligence
+# DRISHTI: Multi-Temporal Satellite Change Detection Intelligence
 
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20Edge%20Air--Gapped-blue.svg)](#)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB.svg?logo=python&logoColor=white)](#)
